@@ -1,4 +1,5 @@
 <!-- Quality & Security Overview -->
+[![CodeQL](https://github.com/CalebSargeant/gns3/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/CalebSargeant/gns3/actions/workflows/github-code-scanning/codeql)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CalebSargeant_gns3&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=CalebSargeant_gns3)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=CalebSargeant_gns3&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=CalebSargeant_gns3)
 [![Known Vulnerabilities](https://snyk.io/test/github/CalebSargeant/gns3/badge.svg)](https://snyk.io/test/github/CalebSargeant/gns3)
